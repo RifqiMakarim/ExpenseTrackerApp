@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ExpenseTrackerApp</string>
+    <string name="title_activity_view_page">ViewPage</string>
+    <string name="title_activity_history_activity.kt">HistoryActivity.kt</string>
+    <string name="title_activity_historial">HistorialActivity</string>
+    <string name="title_activity_history">HistoryActivity</string>
+</resources>
